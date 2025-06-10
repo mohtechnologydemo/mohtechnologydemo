@@ -55,6 +55,3 @@ I have created One-Shot Lectures in Hindi on:
 ---
 
 ⭐️ If you find my content helpful, feel free to **star** my repositories and **subscribe** to my YouTube!
-
-# Thanks From Moh Technology 
-
